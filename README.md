@@ -56,7 +56,7 @@ The table below outlines leading commercial SaaS platforms providing workforce a
 
 The following curated open-source projects power modern access control architectures—spanning full IAM suites, policy-as-code engines, Google Zanzibar-inspired relationship-based access control (ReBAC), and privileged access platforms. Ranked in descending order of GitHub community stars. ⭐
 
-| Repository 📦 | GitHub Stars 🌟 | Architecture Layer & Model 🏛️ | License 📄 | Primary Capabilities ⚡ |
+| Repository 📦 | GitHub_Stars 🌟 | Architecture Layer & Model 🏛️ | License 📄 | Primary Capabilities ⚡ |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Keycloak](https://github.com/keycloak/keycloak)** | [![Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | Full IAM Platform (RBAC, OIDC, SAML) | Apache-2.0 | Standard self-hosted enterprise IAM; centralized user federation, fine-grained role assignments, social login, and realm-based multi-tenancy. |
 | **[JumpServer](https://github.com/jumpserver/jumpserver)** | [![Stars](https://img.shields.io/github/stars/jumpserver/jumpserver?style=social&color=white)](https://github.com/jumpserver/jumpserver/stargazers) | Privileged Access Management (PAM) | GPL-3.0 | The open-source standard for PAM; browser-based bastion host securing SSH, RDP, Kubernetes clusters, and databases with role-based session recording. |
